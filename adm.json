@@ -1,0 +1,20 @@
+{
+    "setup": [
+        {
+            "type": "bash",
+            "content": "bin/setup.sh"
+        }
+    ],
+    "start": [
+        {
+            "type": "bash",
+            "content": "bin/start.sh"
+        }
+    ],
+    "stop": [
+        {
+            "type": "bash",
+            "content": "bin/stop.sh"
+        }
+    ]
+}

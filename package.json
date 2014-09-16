@@ -1,0 +1,21 @@
+{
+  "name": "adm-example",
+  "version": "0.1.0",
+  "description": "An example package for demo of adm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:taoyuan/adm-example.git"
+  },
+  "keywords": [
+    "adm"
+  ],
+  "author": "Tao Yuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taoyuan/adm-example/issues"
+  },
+  "dependencies": {
+    "express": "^4.9.0"
+  }
+}
