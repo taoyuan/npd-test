@@ -1,9 +1,7 @@
 {
     "setup": [
-        {
-            "type": "bash",
-            "content": "bin/setup.sh"
-        }
+        "echo 'setup phase 1'",
+        "echo 'setup phase 2'"
     ],
     "start": [
         {
