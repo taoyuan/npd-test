@@ -1,7 +1,8 @@
 {
     "setup": [
-        "echo 'setup phase 1'",
-        "echo 'setup phase 2'"
+        "echo 'setup begin'",
+        "bash bin/setup.sh",
+        "echo 'setup complete'"
     ],
     "start": [
         {
