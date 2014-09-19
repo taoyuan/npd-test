@@ -1,5 +1,5 @@
-adm-example
+sorb-example
 ===========
 
-> An example package for demo of [adm](https://github.com/taoyuan/adm).
+> An example package for demo of [sorb](https://github.com/taoyuan/sorb).
 

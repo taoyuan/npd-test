@@ -1,19 +1,19 @@
 {
-    "name": "adm-example",
+    "name": "sorb-example",
     "version": "0.1.0",
-    "description": "An example package for demo of adm",
+    "description": "An example package for demo of sorb",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git@github.com:taoyuan/adm-example.git"
+        "url": "git@github.com:taoyuan/sorb-example.git"
     },
     "keywords": [
-        "adm"
+        "sorb"
     ],
     "author": "Tao Yuan",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/taoyuan/adm-example/issues"
+        "url": "https://github.com/taoyuan/sorb-example/issues"
     },
     "dependencies": {
         "express": "^4.9.0"
