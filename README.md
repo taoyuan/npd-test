@@ -1,5 +1,5 @@
-sorb-example
+noap-example
 ===========
 
-> An example package for demo of [sorb](https://github.com/taoyuan/sorb).
+> An example package for demo of [noap](https://github.com/taoyuan/noap).
 

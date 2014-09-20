@@ -1,24 +1,24 @@
 {
-    "name": "sorb-example",
+    "name": "noap-example",
     "version": "0.1.0",
-    "description": "An example package for demo of sorb",
+    "description": "An example package for demo of noap",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git@github.com:taoyuan/sorb-example.git"
+        "url": "git@github.com:taoyuan/noap-example.git"
     },
     "keywords": [
-        "sorb"
+        "noap"
     ],
     "author": "Tao Yuan",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/taoyuan/sorb-example/issues"
+        "url": "https://github.com/taoyuan/noap-example/issues"
     },
     "dependencies": {
         "express": "^4.9.0"
     },
     "bin": {
-        "admex": "./bin/admex"
+        "noapexample": "./bin/noapexample"
     }
 }
