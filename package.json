@@ -1,5 +1,5 @@
 {
-    "name": "npd-example",
+    "name": "npd-test",
     "version": "0.1.0",
     "description": "Test program for npd deployment library.",
     "main": "test.js",
