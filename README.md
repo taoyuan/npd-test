@@ -1,5 +1,5 @@
-noap-example
-===========
+npd-test
+========
 
-> An example package for demo of [noap](https://github.com/taoyuan/noap).
+> Test program for [npd](https://github.com/taoyuan/npd) deployment library.
 

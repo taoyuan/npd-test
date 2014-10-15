@@ -1,0 +1,20 @@
+{
+    "npd-test": {
+        "processes": 2,
+        "description": "npd test service",
+        "scripts": {
+            "start": "node ./test.js",
+            "echo": "echo hello",
+            "node-echo": "node ./test2.js"
+        },
+        "env": {
+            "PORT": {
+                "description": "port to bind to",
+                "default": "800%i"
+            },
+            "USER": {
+                "description": "user to run as."
+            }
+        }
+    }
+}
