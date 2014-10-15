@@ -9,7 +9,7 @@
         "node-echo": "node ./test2.js"
     },
     "bin": {
-        "ndm-test": "./bin.js"
+        "npd-test": "./bin.js"
     },
     "repository": {
         "type": "git",
